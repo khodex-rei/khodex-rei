@@ -1,4 +1,4 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%20World%21%20I%27m%20Khoilr&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%20World%21%20I%27m%20khodex.rei&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
 
 ## 📊 Insight into my coding activities
 
