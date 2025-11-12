@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: khoilr
+          user: khodex-rei
           template: classic
           base: ''
           config_display: regular
@@ -63,7 +63,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: khoilr
+          user: khodex-rei
           template: classic
           base: ''
           config_display: regular
@@ -74,7 +74,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: khoilr
+          plugin_wakatime_user: khodex-rei
           filename: 'images/actions/wakatime.svg'
           extras_css: |
             h2.field{ 
@@ -110,7 +110,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: khoilr
+          user: khodex-rei
           template: classic
           base: ''
           config_display: large
